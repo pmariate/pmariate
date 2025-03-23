@@ -1,6 +1,6 @@
 <!-- Pink Programmer Aesthetic ✨ -->
 <p align="center">
-  <img src="[https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gi](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW9sMGpyNHliYXRycnVraTFndTEweGQ2dmIxbzlpODZ3OW83M21kdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/137EaR4vAOCn1S/giphy.gif)f" width="50">
+  <img src="https://i.imgur.com/RR9sF9B.gif" alt="Pink Coding Banner">
 </p>
 
 <h1 align="center">Hey there! 💖 I'm Princess</h1>
@@ -35,15 +35,15 @@
 
 ---
 
-<h3 align="center">✨ Tech Stack:</h3>
+<h3 align="center">💻 Tech Stack:</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="50">
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50">
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="50">
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50">
-  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50" alt="HTML">
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50" alt="JavaScript">
+  <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="50" alt="React">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" alt="Flutter">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" alt="Figma">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50" alt="Git">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" alt="Tailwind CSS">
 </p>
 
 ---
