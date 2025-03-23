@@ -28,7 +28,7 @@ alt="Baby Pink Coding Banner">
 <h3 align="center" style="color:#ffb6c1;">🚀 Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/princessariate" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-ffb6c1?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://fb.com/princess.joy.ariate" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-ffb6c1?style=for-the-badge&logo=facebook&logoColor=white" />
