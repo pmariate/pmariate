@@ -1,6 +1,6 @@
 <!-- Pink Programmer Aesthetic ✨ -->
 <p align="center">
-  <img src="https://i.imgur.com/RR9sF9B.gif" alt="Pink Coding Banner">
+  <img src="[https://i.imgur.com/RR9sF9B.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW9sMGpyNHliYXRycnVraTFndTEweGQ2dmIxbzlpODZ3OW83M21kdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/137EaR4vAOCn1S/giphy.gif)" alt="Pink Coding Banner">
 </p>
 
 <h1 align="center">Hey there! 💖 I'm Princess</h1>
