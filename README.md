@@ -1,5 +1,11 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
+
+
 <h1 align="center">Hi 👋, I'm Princess</h1>
 <h3 align="center">Experienced Front-End Developer with a strong foundation in Computer Science and Information Technology, specializing in web development and project development. Possesses a solid background in business operations, enabling the creation of scalable, high-performance applications that align with business goals and drive efficiency.</h3>
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pmariate&label=Profile%20views&color=0e75b6&style=flat" alt="pmariate" /> </p>
 
