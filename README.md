@@ -7,9 +7,9 @@ alt="Baby Pink Coding Banner">
 <h1 align="center" style="color:#ffb6c1;">Hey there! 💖 I'm Princess</h1>
 <h3 align="center" style="color:#ffb6c1;">✨ Front-End Developer | Business Owner | Tech Enthusiast ✨</h3>
 
-<h2>
-CS Junior at the University of the Philippines Los Baños, with a foundation in Computer Science and Information Technology. Specializing in web development and project management, I combine technical expertise with a strong business background to build scalable, high-performance applications that align with business goals and drive efficiency.
-</h2>
+<p align="center">
+  CS Junior at <b>University of the Philippines Los Baños</b> with a passion for web development and project management. I build scalable applications that align with business goals while combining tech and strategy.
+</p>
 
 <img align="right" alt="Coding Girl" width="400" src="https://media.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif">
 
@@ -27,13 +27,13 @@ CS Junior at the University of the Philippines Los Baños, with a foundation in 
 
 <h3 align="center" style="color:#ffb6c1;">🚀 Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/princessariate" target="blank">
+  <a href="https://linkedin.com/in/princessariate" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-ffb6c1?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://fb.com/princess.joy.ariate" target="blank">
+  <a href="https://fb.com/princess.joy.ariate" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-ffb6c1?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://instagram.com/mozzarella_cess" target="blank">
+  <a href="https://instagram.com/mozzarella_cess" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-ffb6c1?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:pmariate@up.edu.ph">
