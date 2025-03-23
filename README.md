@@ -27,13 +27,13 @@ alt="Baby Pink Coding Banner">
 
 <h3 align="center" style="color:#ffb6c1;">🚀 Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/princessariate" target="_blank">
+  <a href="https://linkedin.com/in/princessariate" target="blank">
     <img src="https://img.shields.io/badge/-LinkedIn-ffb6c1?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://fb.com/princess.joy.ariate" target="_blank">
+  <a href="https://fb.com/princess.joy.ariate" target="blank">
     <img src="https://img.shields.io/badge/-Facebook-ffb6c1?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://instagram.com/mozzarella_cess" target="_blank">
+  <a href="https://instagram.com/mozzarella_cess" target="blank">
     <img src="https://img.shields.io/badge/-Instagram-ffb6c1?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:pmariate@up.edu.ph">
