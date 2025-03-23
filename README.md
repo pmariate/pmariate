@@ -40,7 +40,7 @@ alt="Pink Coding Banner">
 <p align="center">
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50" alt="HTML">
   <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50" alt="JavaScript">
-  <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="50" alt="React">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" alt="React">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" alt="Flutter">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" alt="Figma">
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50" alt="Git">
@@ -69,10 +69,4 @@ alt="Pink Coding Banner">
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pmariate&theme=radical" alt="pmariate" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 </p>
